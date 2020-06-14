@@ -1,4 +1,4 @@
-# yui
+# C++ final program
 Programming Requirements:
 • Use liburl to retrieve historical price data from Yahoo Finance: A function retrieves
 the adjusted close prices for selected S & P 500 stocks and SPY into memory.
